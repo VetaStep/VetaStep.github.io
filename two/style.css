@@ -1,0 +1,45 @@
+.top{
+    background-color: #212121;
+}
+.up{
+    color: aliceblue;
+}
+.ssilky{
+background-color: #5F9EA0;
+text-align: center;
+font-size: 150%;
+}
+a{
+    color: aliceblue;
+    text-decoration: none;
+}
+.text{
+    margin-top: 5%;
+}
+
+.shrift{
+    font-family: cursive;
+   
+    
+}
+.shriftwo{
+    text-align: center;
+    font-family: cursive;
+    font-size: 100%;
+
+}
+.catik{
+    background-color: #5F9EA0;
+    color: aliceblue;
+    margin-top: 5%;
+    padding-bottom: 1%;
+    font-size: 130%;
+}
+.help{
+    font-size: 130%;
+}
+.primer{
+    width: 10%;
+    height: auto;
+    margin: 3%;
+    }

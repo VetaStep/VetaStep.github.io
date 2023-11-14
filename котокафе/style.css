@@ -1,0 +1,40 @@
+.nomer{
+    padding-left: 5%;
+}
+.n1{
+    font-family: Didot, serif;
+    font-size: 130%;
+    color: aliceblue;
+}
+.n3{
+    background-color: #4d4d4d;
+    z-index: 100;
+    position: fixed;
+}
+.fon{
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+.zagolovki{
+   margin-top: 15%;   
+   text-align: center;
+   font-family: Jazz LET, fantasy;
+   color: #4d4d4d;
+}
+.zagl{
+    margin-top: 5%;   
+   text-align: center;
+   font-family: Jazz LET, fantasy;
+
+}
+.cost{
+    margin-top: 5%;   
+    font-family: Jazz LET, fantasy;
+}
+.foot{
+    background-color: #4d4d4d;
+}
+body{
+    background-color: #ebebeb;
+}
